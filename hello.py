@@ -1,3 +1,3 @@
 print('Hello world')
-name=input('Nhap ten: ')
+name=input('Ten: ')
 print("Hello "+name)
